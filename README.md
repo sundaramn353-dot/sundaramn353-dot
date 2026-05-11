@@ -14,9 +14,9 @@
 
 | Credential | Issuing Body | Status | Verification |
 | :--- | :--- | :--- | :--- |
-| **Wheeled Mobile Robots** | **IIT Madras (NPTEL)** | **Elite** | [Verify ↗️](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL26ME71S453705201) |
+| **Wheeled Mobile Robots** | **IIT Madras (NPTEL)** | **Elite** | [Verify ↗️](./nptel.png) |
 | **Self-Driving & ROS2 Navigation** | **Udemy (Antonio Brandi)** | **Certified** | [View ↗️](https://www.linkedin.com/in/sundaram-n) |
-| **Python Network Attacks** | **Infosys Springboard** | **Certified** | [View ↗️](https://verify.onwingspan.com) |
+| **Python Network Attacks** | **Infosys Springboard** | **Certified** | [View ↗️](./infosys.png) |
 
 ---
 
