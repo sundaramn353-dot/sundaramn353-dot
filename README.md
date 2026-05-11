@@ -1,16 +1,16 @@
-# Meenatchi Sundaram N 👋
+# Meenatchi Sundaram N 
 **Robotics Software Engineer | ROS2 & Autonomous Systems Specialist**
 
 ---
 
-## 🏆 Honors & Key Achievements
+##  Honors & Key Achievements
 * **Diamond of Dhaanish Award:** Recognized as a top-performing student at Dhaanish Ahmed Institute of Technology for excellence in Robotics & Automation Engineering.
 * **MIT Madras Internship:** Successfully completed a 2-week intensive internship at the **Centre for Robotics and Automation (CRA), MIT Campus, Anna University**.
 * **NPTEL Elite:** Certified in Wheeled Mobile Robots by **IIT Madras** (Score: 75%).
 
 ---
 
-## 🎓 Professional Certifications
+##  Professional Certifications
 
 | Credential | Issuing Body | Status | Verification |
 | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠 Technical Competencies
+##  Technical Competencies
 
 ### **Robotics & Control**
 - **Frameworks:** ROS2 (Humble/Jazzy), Nav2, SLAM Toolbox, MoveIt2.
@@ -33,7 +33,7 @@
 
 ---
 
-## 📂 Featured Robotics Projects
+##  Featured Robotics Projects
 * **ScrubBot-ROS2:** Autonomous wall-sanding robot for construction.
 * **Mission Control UI:** React-based dashboard for real-time robot telemetry.
 * **Automatic Metal Detector:** Full-stack autonomous sensing platform.
