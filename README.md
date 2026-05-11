@@ -1,5 +1,5 @@
 # Meenatchi Sundaram N 
-**Robotics Software Engineer | ROS2 & Autonomous Systems **
+Robotics Software Engineer | ROS2 & Autonomous Systems 
 
 ---
 
