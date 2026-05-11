@@ -34,7 +34,7 @@
 ---
 
 ##  Featured Robotics Projects
-* **ScrubBot-ROS2:** Autonomous wall-sanding robot for construction.
+* **[Autonomous Vacuum Cleaner](https://github.com/sundaramn353-dot/Autonomous-Vacuum-Cleaner-ROS2):** ROS2-based system with **React UI**, **Behavior Trees**, and **Auto-docking** logic for smart battery management.
 * **Mission Control UI:** React-based dashboard for real-time robot telemetry.
 * **Automatic Metal Detector:** Full-stack autonomous sensing platform.
 
