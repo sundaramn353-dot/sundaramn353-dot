@@ -1,17 +1,45 @@
-| Certification | Badge | Verification |
-| :--- | :--- | :--- |
-| **Wheeled Mobile Robots (Elite)** | ![NPTEL](https://img.shields.io/badge/NPTEL-IIT_Madras-blue?style=for-the-badge) | [View Certificate ↗️](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL26ME71S453705201) |
-### 🏆 Featured Achievement
-- **Elite Certification in Wheeled Mobile Robots** (NPTEL, IIT Madras)
-  - Scored **75%** in a proctored examination.
-  - One of only 342 certified candidates in the Jan-Mar 2026 session.
-  - *Key Topics:* Kinematics, Dynamics, and Control of Mobile Robotic Systems.
-  - ## 🎓 Professional Certifications
+# Meenatchi Sundaram N 👋
+**Robotics Software Engineer | ROS2 & Autonomous Systems Specialist**
 
-| Certification | Badge | Verification |
-| :--- | :--- | :--- |
-| **Wheeled Mobile Robots (Elite)** | ![NPTEL](https://img.shields.io/badge/NPTEL-IIT_Madras-blue?style=for-the-badge) | [Verify Certificate ↗️](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL26ME71S453705201) |
-| **ROS2 Developer Certification** | ![ROS2](https://img.shields.io/badge/ROS2-Certified-blue?style=for-the-badge&logo=ros) | [View ↗️](https://www.linkedin.com/in/sundaram-n) |
-| **Linux for Robotics** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | [Verified ↗️](https://www.linkedin.com/in/sundaram-n) |
+---
 
-> **Note:** The "Wheeled Mobile Robots" course from IIT Madras covers the mathematical foundations of autonomous navigation, which I apply directly in my ROS2 Nav2 configurations.
+## 🏆 Honors & Key Achievements
+* **Diamond of Dhaanish Award:** Recognized as a top-performing student at Dhaanish Ahmed Institute of Technology for excellence in Robotics & Automation Engineering.
+* **MIT Madras Internship:** Successfully completed a 2-week intensive internship at the **Centre for Robotics and Automation (CRA), MIT Campus, Anna University**.
+* **NPTEL Elite:** Certified in Wheeled Mobile Robots by **IIT Madras** (Score: 75%).
+
+---
+
+## 🎓 Professional Certifications
+
+| Credential | Issuing Body | Status | Verification |
+| :--- | :--- | :--- | :--- |
+| **Wheeled Mobile Robots** | **IIT Madras (NPTEL)** | **Elite** | [Verify ↗️](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL26ME71S453705201) |
+| **Self-Driving & ROS2 Navigation** | **Udemy (Antonio Brandi)** | **Certified** | [View ↗️](https://www.linkedin.com/in/sundaram-n) |
+| **Python Network Attacks** | **Infosys Springboard** | **Certified** | [View ↗️](https://verify.onwingspan.com) |
+
+---
+
+## 🛠 Technical Competencies
+
+### **Robotics & Control**
+- **Frameworks:** ROS2 (Humble/Jazzy), Nav2, SLAM Toolbox, MoveIt2.
+- **Theory:** Kinematics & Dynamics (Wheeled Robots), Path Planning, Sensor Fusion.
+- **Simulation:** Gazebo, RViz, URDF Modeling.
+
+### **Software & Engineering**
+- **Languages:** C++, Python (Low-level & Automation), JavaScript (React).
+- **Hard Skills:** PCB Design, Linux (Ubuntu), Hardware-Software Integration.
+
+---
+
+## 📂 Featured Robotics Projects
+* **ScrubBot-ROS2:** Autonomous wall-sanding robot for construction.
+* **Mission Control UI:** React-based dashboard for real-time robot telemetry.
+* **Automatic Metal Detector:** Full-stack autonomous sensing platform.
+
+---
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundaram-n)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundaramn353@gmail.com)
