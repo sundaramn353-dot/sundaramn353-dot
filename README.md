@@ -184,7 +184,7 @@ Clean, modular ROS2 packages, custom controllers, and behavior trees for complex
 
 </div>
 
-## Featured Projects
+##  Projects
 
 <br/>
 
